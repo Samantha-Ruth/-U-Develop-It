@@ -43,9 +43,6 @@ Note: there is no front end to this application, it is purely SQL backend.  To v
 ## Links
 
 
-Link to video of project:
-
-
 The url of the Git repository is here: https://github.com/Samantha-Ruth/U-Develop-It
 
 
