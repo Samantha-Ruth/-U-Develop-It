@@ -16,7 +16,7 @@ This project was a great introductionto SQL.  I practiced creating schemas and s
 
 ## Installation
 
-If the user already has node installed on their device, they can download this project and run "npm init" and then "npm install --save inquirer@^8.0.0 (** please note: newer versions of inquirer will not work properly with this program!), and then npm install console.table --save.  After this, install --save mysql2. In order to protect passwords, the user will also wan to "install dotenv" as well. 
+If the user already has node installed on their device, they can download this project and run "npm init" and then "npm install --save inquirer@^8.0.0 (** please note: newer versions of inquirer will not work properly with this program!), and then npm install console.table --save.  After this, install --save mysql2. In order to protect passwords, the user will also want to "install dotenv" as well. 
 
 In order to access the mysql2 shell,  the user needs to create a .env file with the following, replacing <username> and <user password> with the users own username and password: 
   
