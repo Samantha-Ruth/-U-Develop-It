@@ -33,8 +33,7 @@ Finally, connect the server by entering "npm start" into the command line.
 
 ## Usage
 
-The user is a member of a hypothetical group called U Develop It. This group is picking a new president; this project developed the backend relational database to develop a voting application.  The user can pick the individual they would like to be president and cast a vote for them on this application. 
-The user can then view how many votes each candidate has received and with which parties they are affiliated. 
+This is a voting app to pick a new president for an imaginary group named "U Develop It".  This project developed the backend relational database for this voting application.  The user can pick the individual they would like to be president and cast a vote for them on this application.  The user can then view how many votes each candidate has received and with which parties they are affiliated. 
 
 ## Links
 
