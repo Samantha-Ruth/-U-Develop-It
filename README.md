@@ -33,8 +33,8 @@ Finally, connect the server by entering "npm start" into the command line.
 
 ## Usage
 
-The user will be presented with a list of options regarding an employee database.  They can view all departments, roles, and employees, as well as add departments, roles, and employees.  The user gets access to the database using the console line and can adjust data as desired.  
-
+The user is a member of a hypothetical group called U Develop It. This group is picking a new president; this project developed the backend relational database to develop a voting application.  The user can pick the individual they would like to be president and cast a vote for them on this application. 
+The user can then view how many votes each candidate has received and with which parties they are affiliated. 
 
 ## Links
 
